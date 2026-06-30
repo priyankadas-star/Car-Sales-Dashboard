@@ -64,7 +64,8 @@ Car-Sales-Dashboard
 │
 └── Images
     ├── Dashboard.png
-    └── Dashboard_Filtered.png
+    └── Pivote tables.png
+    └── Pivote charts.png
 ```
 
 ---
@@ -73,8 +74,7 @@ Car-Sales-Dashboard
 
 ### Main Dashboard
 
-(Add `<img width="1317" height="742" alt="car_sales_dashboard1" src="https://github.com/user-attachments/assets/5d52ff97-7443-430e-a08f-9fc22b03480f" />
-` here)
+(Add `` here)
 
 ### Filtered Dashboard
 
@@ -106,8 +106,5 @@ Car-Sales-Dashboard
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
+## 
 
----
-
-This README is concise, professional, and suitable for showcasing the project on GitHub as part of your data analytics portfolio.
