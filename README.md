@@ -100,6 +100,8 @@ Car-Sales-Dashboard
 
 ---
 
-## Author
-Priyanka Ranjit Das
+## 👩‍💻 Author
+
+**Priyanka Das**
+
 
