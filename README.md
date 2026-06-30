@@ -72,9 +72,7 @@ Car-Sales-Dashboard
 
 ## Dashboard Preview
 
-![Main Dashboard](Images/Dashboard.png)
-
-![Filtered Dashboard](Images/Dashboard_Filtered.png)
+![Main Dashboard](Images/car_sales_dashboard1.png)
 
 ---
 
