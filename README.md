@@ -73,8 +73,7 @@ Car-Sales-Dashboard
 ## Dashboard Preview
 
 ![Main Dashboard](Images/car_sales_dashboard1.png)
-![Main Dashboard](Images/car_sales_dashboard2.png)
-![Main Dashboard](Images/car_sales_dashboard3.png)
+
 ---
 
 ## 🚀 Skills Demonstrated
