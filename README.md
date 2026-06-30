@@ -70,15 +70,11 @@ Car-Sales-Dashboard
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
-### Main Dashboard
+![Main Dashboard](Images/Dashboard.png)
 
-(Add `` here)
-
-### Filtered Dashboard
-
-(Add `Dashboard_Filtered.png` here)
+![Filtered Dashboard](Images/Dashboard_Filtered.png)
 
 ---
 
